@@ -1,1 +1,4 @@
 encryptionsalt: v1:rQTuJGCt5mg=:v1:QF9nzJ7qO3Xf2Cks:pr5j/Nx3n47Ob2s9QUqzkus4i4Ifiw==
+config:
+  aws:profile: vvilelaj
+  aws:region: us-west-2
